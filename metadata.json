@@ -1,0 +1,6 @@
+{
+  "name": "文檔整編 — ZIP 批量文字檔轉 CSV 工具",
+  "description": "將打包的 ZIP 壓縮檔內多個規範格式 TXT 文件自動解析標頭欄位與內文，驗證品質並匯總輸出為相容 Excel 的結構化 CSV 表格檔案。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
